@@ -24,11 +24,11 @@ async def on_ready():
     ██████╔╝╚██████╔╝   ██║   
     ╚═════╝  ╚═════╝    ╚═╝   
                           
-            By 2$py#5340
+            By R4#3773
 
     """)
     print(f"Connecté à : {bot.user.name}")
-    await bot.change_presence(activity=discord.Game(name="Script from : https://github.com/2spy/Vinted-Discord-Bot"))
+    await bot.change_presence(activity=discord.Game(name="Script from : R4#3773"))
 
 
 @bot.command()
